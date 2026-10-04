@@ -1,0 +1,23 @@
+---
+title: "Ashlea Rundlett"
+about:
+  template: jolla
+  image: images/photo.jpg
+  image-alt: "Photo of Ashlea Rundlett"
+  image-width: 14em
+  links:
+    - text: URI Faculty Page
+      href: https://web.uri.edu/politicalscience/meet/ashlea-rundlett/
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=PGdzDFQAAAAJ&hl=en
+---
+
+Welcome! I am an Associate Professor of Political Science at the University of Rhode Island, where I also direct the MA in International Relations.
+
+My research has examined how citizens respond to political power and to changes in the institutions that hold it. Earlier projects studied corruption and electoral accountability in Brazil, human rights and democratic institutions in Mexico, and how people perceive their local communities. My current projects examine public opinion on AI and other emerging technologies as the United States and China compete for influence, using surveys and survey experiments in the United States, Latin America, and China.
+
+I teach courses on research methods, democratic politics, Latin American politics, and nuclear arms policy.
+
+If you have questions about my work, please [contact me](contact.qmd).
+
+[Publications and working papers](research.qmd) | [CV](cv.qmd) | [Teaching and public engagement](teaching.qmd)

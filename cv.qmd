@@ -1,0 +1,9 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download the CV (PDF)](files/Rundlett_CV.pdf){.btn .btn-primary}
+
+<object data="files/Rundlett_CV.pdf" type="application/pdf" width="100%" height="900">
+  <p>Your browser cannot display the PDF here. <a href="files/Rundlett_CV.pdf">Download the CV (PDF)</a>.</p>
+</object>

@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Ashlea Rundlett"
+  site-url: https://ashlearundlett.com
+  description: "Ashlea Rundlett is an Associate Professor of Political Science at the University of Rhode Island. Research on public opinion, AI, elections, and human rights."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: teaching.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
